@@ -9,7 +9,7 @@ En este proyecto están las funcionalidades para gestionar clientes y productos.
 
 ## Antes de comenzar
 
-Se debe ejecutar el siguiente script en tu cliente de mysql (las propiedades de los datos de conexión están ubicadas en el fichero application.properties)
+Se debe ejecutar el siguiente script en tu cliente de MySQL 8.0.25 (las propiedades de los datos de conexión están ubicadas en el fichero application.properties)
 
 ```
 #creamos db
